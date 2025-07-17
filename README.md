@@ -13,7 +13,6 @@
   #### :raising_hand: I am a Robot Developer from South Korea.<br/>
   #### :mortar_board: Bachelor of Robotics, Kwangwoon University (*2019.03 - 2025.02*)
   <br/>
-  <br/>
   
   ## 🧱 Tech Stack
   ### Language
@@ -42,6 +41,8 @@
   <br/>
 
   ### Robotics & Middleware
+  <!--ubuntu-->
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   <!--ros-->
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <!--gazebo-->
