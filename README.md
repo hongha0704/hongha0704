@@ -11,7 +11,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Robot Developer from South Korea.<br/>
-  #### :mortar_board: Bachelor of Robotics, Kwangwoon University (2019.03 - 2025.02)
+  #### :mortar_board: Bachelor of Robotics, Kwangwoon University (*2019.03 - 2025.02*)
   <br/>
   <br/>
   
@@ -64,12 +64,24 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![hongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
 
+  ## 🛠️ Projects
+  ### 💉 ARM 기반 간호 어시스턴트 로봇 (2025.06)
+  https://github.com/hongha0704/amr_nursing_assistance
+  ### 💊 Rokey_Pharmacy (2025.05)
+  https://github.com/hongha0704/rokey_pharmacy
+  ### 🍦 ARIS/STORAGE Project (2024.07 ~ 2024.08)
+  https://github.com/hongha0704/ice_cream_cafe
+
+  <br/>
+
+  ## 🤔 Github Stats
+  [![hongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongha0704)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongha0704)](https://github.com/anuraghazra/github-readme-stats)
+
+  <br/>
+  
   ## 📞 Contact
   Mail : hongha0704@naver.com
   
