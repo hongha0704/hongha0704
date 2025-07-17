@@ -11,7 +11,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Robot Developer from South Korea.<br/>
-  #### :mortar_board: Bachelor of Robotics, Kwangwoon University
+  #### :mortar_board: Bachelor of Robotics, Kwangwoon University (2019.03 - 2025.02)
   <br/>
   <br/>
   
@@ -69,6 +69,9 @@
   [![hongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+
+  ## 📞 Contact
+  Mail : hongha0704@naver.com
   
 </div>
 
