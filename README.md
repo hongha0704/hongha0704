@@ -19,14 +19,14 @@
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--C++-->
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <br/>
   
   ### Library
   <!--numpy-->
   <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <!--qt-->
-  <img src="https://img.shields.io/badge/qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
   <br/>
   
   ### AI & Computer Vision
@@ -37,7 +37,7 @@
   <!--TensorFlow-->
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <!--opencv-->
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
   <br/>
 
   ### Robotics & Middleware
@@ -55,7 +55,7 @@
   <!--ros-->
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <!--mqtt-->
-  <img src="https://img.shields.io/badge/mqtt-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
   <br/>
   
   ### Collaboration Tools
