@@ -1,4 +1,4 @@
-<div>
+<img width="924" height="88" alt="image" src="https://github.com/user-attachments/assets/36705f27-714c-47c8-8a31-170a4f30ed92" /><div>
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
@@ -85,7 +85,9 @@
     - https://github.com/hongha0704/autonomous_rokeybot_sim
   - ### 🛏️ Miracle Morning & Good Night (2025.05)
     - https://github.com/hongha0704/miracle_morning_cobot
-
+  - ### 🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅 (2024.11 ~ 2024.12)
+    - https://github.com/hongha0704/vision_salad_plating
+  
   <br/>
 
   ## 🤔 Github Stats
