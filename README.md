@@ -67,12 +67,24 @@
   <br/>
 
   ## 🛠️ Projects
-  ### 💉 ARM 기반 간호 어시스턴트 로봇 (2025.06)
-  https://github.com/hongha0704/amr_nursing_assistance
-  ### 💊 Rokey_Pharmacy (2025.05)
-  https://github.com/hongha0704/rokey_pharmacy
-  ### 🍦 ARIS/STORAGE Project (2024.07 ~ 2024.08)
-  https://github.com/hongha0704/ice_cream_cafe
+  
+  ## Main Project
+  - ### 💉 ARM 기반 간호 어시스턴트 로봇 (2025.06)
+    - https://github.com/hongha0704/amr_nursing_assistance
+  - ### 💊 Rokey_Pharmacy (2025.05)
+    - https://github.com/hongha0704/rokey_pharmacy
+  - ### 🍦 ARIS/STORAGE Project (2024.07 ~ 2024.08)
+    - https://github.com/hongha0704/ice_cream_cafe
+  
+  <br/>
+  
+  ## Additional Projects
+  - ### 🚗 자율주행 ROKEYBOT Real (2025.06)
+    - https://github.com/hongha0704/autonomous_rokeybot_real
+  - ### 🚙 자율주행 ROKEYBOT Sim (2025.05)
+    - https://github.com/hongha0704/autonomous_rokeybot_sim
+  - ### 🛏️ Miracle Morning & Good Night (2025.05)
+    - https://github.com/hongha0704/miracle_morning_cobot
 
   <br/>
 
