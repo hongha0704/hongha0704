@@ -1,4 +1,4 @@
-<img width="924" height="88" alt="image" src="https://github.com/user-attachments/assets/36705f27-714c-47c8-8a31-170a4f30ed92" /><div>
+<img width="465" height="199" alt="image" src="https://github.com/user-attachments/assets/5fe0545a-d444-491e-9d2f-561e9ae9087a" /><div>
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
@@ -89,8 +89,8 @@
     - https://github.com/hongha0704/vision_salad_plating
   - ### 📷 컴퓨터비전 과제 (2024.09 ~ 2024.12)
     - https://github.com/hongha0704/computer_vision_homework
-   
-
+  - ### 📢 DIMMS(Do It Miracle Morning System) (2023.03 ~ 2023.06)
+    - https://github.com/hongha0704/dimms_project
   
   <br/>
 
