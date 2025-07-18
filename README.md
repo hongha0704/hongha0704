@@ -87,6 +87,10 @@
     - https://github.com/hongha0704/miracle_morning_cobot
   - ### 🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅 (2024.11 ~ 2024.12)
     - https://github.com/hongha0704/vision_salad_plating
+  - ### 📷 컴퓨터비전 과제 (2024.09 ~ 2024.12)
+    - https://github.com/hongha0704/computer_vision_homework
+   
+
   
   <br/>
 
