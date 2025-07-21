@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <!--opencv-->
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white"/>
+  <!--YOLO-->
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/>
   <br/>
 
   ### Robotics & Middleware
