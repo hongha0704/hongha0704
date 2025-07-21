@@ -91,7 +91,7 @@
     - https://github.com/hongha0704/vision_salad_plating
   - ### 📷 컴퓨터비전 과제 (2024.09 ~ 2024.12)
     - https://github.com/hongha0704/computer_vision_homework
-  - ### ☀️ DIMMS(Do It Miracle Morning System) (2023.03 ~ 2023.06)
+  - ### ☀️ DIMMS(Do It Miracle Morning System) (2023.06)
     - https://github.com/hongha0704/dimms_project
   
   <br/>
