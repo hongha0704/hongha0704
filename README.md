@@ -79,9 +79,9 @@
   <br/>
   
   ## Additional Projects
-  - ### 🚗 자율주행 ROKEYBOT Real (2025.06)
+  - ### 🚗 자율주행 ROKEYBOT (Real) (2025.06)
     - https://github.com/hongha0704/autonomous_rokeybot_real
-  - ### 🚙 자율주행 ROKEYBOT Sim (2025.05)
+  - ### 🚙 자율주행 ROKEYBOT (Simulation) (2025.05)
     - https://github.com/hongha0704/autonomous_rokeybot_sim
   - ### 🛏️ Miracle Morning & Good Night (2025.05)
     - https://github.com/hongha0704/miracle_morning_cobot
