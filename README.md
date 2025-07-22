@@ -92,7 +92,7 @@
   - ### 📷 컴퓨터비전 과제 (2024.09 ~ 2024.12)
     - https://github.com/hongha0704/computer_vision_homework
   - ### ☀️ DIMMS(Do It Miracle Morning System) (2023.06)
-    - https://github.com/hongha0704/dimms_project
+    - #### Atmega128과 센서를 활용한 기상 루틴 자동화 (https://github.com/hongha0704/dimms_project)
   
   <br/>
 
