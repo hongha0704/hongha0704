@@ -72,7 +72,7 @@
   
   ## Main Project
   - ### 💉 ARM 기반 간호 어시스턴트 로봇 (2025.06)
-    - #### TurtleBot4를 활용한 약품 배송 및 환자 모니터링 자동화 (https://github.com/hongha0704/amr_nursing_assistance)
+    - #### TurtleBot4를 활용한 병원 자율주행 약품 배송 및 환자 모니터링 자동화 (https://github.com/hongha0704/amr_nursing_assistance)
   - ### 💊 Rokey_Pharmacy (2025.05)
     - https://github.com/hongha0704/rokey_pharmacy
   - ### 🍦 ARIS/STORAGE Project (2024.07 ~ 2024.08)
