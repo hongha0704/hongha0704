@@ -86,7 +86,7 @@
   - ### 🚙 자율주행 ROKEYBOT (Simulation) (2025.06)
     - https://github.com/hongha0704/autonomous_rokeybot_sim
   - ### 🛏️ Miracle Morning & Good Night (2025.05)
-    - https://github.com/hongha0704/miracle_morning_cobot
+    - 협동로봇을 활용한 출퇴근 시간 물품 정리 및 세팅 자동화 (https://github.com/hongha0704/miracle_morning_cobot)
   - ### 🥗 비전 기술을 활용한 샐러드 사용자 커스텀 플레이팅 (2024.11 ~ 2024.12)
     - https://github.com/hongha0704/vision_salad_plating
 <!--
