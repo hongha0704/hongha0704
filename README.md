@@ -76,7 +76,7 @@
   - ### 💊 Rokey_Pharmacy (2025.05)
     - #### AI비전 기술 기반 협동로봇 약 조제 시스템 자동화 (https://github.com/hongha0704/rokey_pharmacy)
   - ### 🍦 ARIS/STORAGE Project (2024.07 ~ 2024.08)
-    - https://github.com/hongha0704/ice_cream_cafe
+    - #### AI 비전과 다중로봇 제어를 활용한 아이스크림 제조 및 서빙 자동화 (https://github.com/hongha0704/ice_cream_cafe)
   
   <br/>
   
