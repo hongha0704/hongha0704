@@ -97,13 +97,6 @@
     - #### Atmega128과 센서를 활용한 기상 루틴 자동화 (https://github.com/hongha0704/dimms_project)
   
   <br/>
-
-  ## 🤔 Github Stats
-  [![hongha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongha0704)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongha0704)](https://github.com/anuraghazra/github-readme-stats)
-
-  <br/>
   
   ## 📞 Contact
   Mail : hongha0704@naver.com
